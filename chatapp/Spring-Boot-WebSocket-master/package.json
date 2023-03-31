@@ -17,7 +17,5 @@
         "url": "https://github.com/binary01-spec/chat_app_project/issues"
     },
     "homepage": "https://github.com/binary01-spec/chat_app_project#readme"
-    "dependencies": {
-    "express": "^4.17.1"
-  }
+ 
 }
